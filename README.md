@@ -12,7 +12,7 @@ I have experience working with large, multi-source datasets, building reproducib
 ## 🔧 Technical Expertise
 
 ### 📊 Data Analysis & Modeling
-- Multivariable regression, predictive modeling, trend analysis  
+- Multivariable regression, predictive modeling, trend analysis, Machine Learning  
 - Infectious disease & population health modeling  
 - Data validation, quality control, and reproducibility  
 
@@ -20,7 +20,8 @@ I have experience working with large, multi-source datasets, building reproducib
 - **Python** (pandas, numpy, scikit-learn, matplotlib)  
 - **R** (tidyverse, ggplot2, epidemiological packages)  
 - **SQL** (data extraction, transformation, optimization)  
-- **SAS** (Certified Base Programmer), **STATA**  
+- **SAS** (Certified Base Programmer),
+- **STATA** (Epidemiological Focus)  
 
 ### 📈 Data Visualization & BI
 - Power BI, Tableau  
